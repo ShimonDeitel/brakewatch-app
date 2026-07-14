@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: BrakewatchTests
-      - path: Brakewatch.storekit
     dependencies:
       - target: Brakewatch
     settings:
